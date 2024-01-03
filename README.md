@@ -3,7 +3,7 @@ This is an English translation of Soviet Test pilot Col. [Marina Popowitsch's](h
 
 Wikipedia: "Popovich was a Soviet Air Forces colonel, engineer, and decorated Soviet test pilot. In 1964, she became the third woman and the first Soviet woman to break the sound barrier. Known as "Madame MiG", for her work in the Soviet fighter, she set more than one hundred aviation world records on over 40 types of aircraft over her career."
 
-There is also a chapter on the founder of Soviet ufology, Dr. [Felix Ziegel](https://en.wikipedia.org/wiki/Felix_Ziegel).
+There is also a chapter on the founder of Soviet ufology, [Dr. Felix Ziegel](https://en.wikipedia.org/wiki/Felix_Ziegel).
 
 This translation was done using chatgpt v4.0, one page at a time, from a high quality 400 DPI flatbed scan. I've tried to ensure the translation between pages is acceptable, and in a few cases I translated 2 pages at a time and corrected any obvious errors. I will be correcting translation errors as time permits. (Feel free to submit a PR if you see any obvious translation errors that need correction. I do not speak German, and have relied on GPT v4.0 and Twitter/X users to generate this English text.)
 
