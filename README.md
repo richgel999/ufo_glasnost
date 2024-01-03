@@ -5,7 +5,9 @@ Wikipedia: "Popovich was a Soviet Air Forces colonel, engineer, and decorated So
 
 There is also a chapter on the founder of Russian ufology, [Dr. Felix Ziegel](https://en.wikipedia.org/wiki/Felix_Ziegel).
 
-This translation was done using chatgpt v4.0, one page at a time, from a high quality 400 DPI flatbed scan. I've tried to ensure the translation between pages is acceptable, and in a few cases I translated 2 pages at a time to ensure the sentences at the very end and beginning of each page were reasonable. I will be correcting translation errors as time permits. (Feel free to submit a PR if you see any obvious translation errors that need correction. I do not speak German, and have relied on GPT v4.0 and Twitter/X users to generate this English text.)
+This translation was done using chatgpt v4.0, one page at a time, from a high quality 400 DPI flatbed scan. I've tried to ensure the translation between pages is acceptable, and in a few cases I translated 2 pages at a time to ensure the sentences at the very end and beginning of each page were reasonable. I will be correcting translation errors as time permits. 
+
+Feel free to submit a PR if you see any obvious translation errors that need correction. I do not speak German, and have relied on GPT v4.0 and Twitter/X users to generate this English text.
 
 Pages with formulas or complex charts were included as-is. All photographs in the book are included.
 
