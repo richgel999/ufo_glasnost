@@ -11,6 +11,9 @@ Feel free to submit a PR if you see any obvious translation errors that need cor
 
 Pages with formulas or complex charts were included as-is. All photographs in the book are included.
 
+Alternate archive.org URL:
+https://archive.org/details/ufo-glasnost-marina-popowitsch-lq
+
 This translation is dedicated to the memory and work of Col. Marina Popovich and the numerous Soviet scientists and researchers she collaborated with in the production of this book. 
 
 Note the copyright situation of this work is unclear, as Col. Popovich is deceased. This work is likely the property of her heirs or estate.
