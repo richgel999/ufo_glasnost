@@ -1,5 +1,5 @@
 # ufo_glasnost
-This is an English translation of Soviet test pilot Col. [Marina Popowitsch's](https://en.wikipedia.org/wiki/Marina_Popovich)'s (1931-2017) long out of print 1989/1991 book "UFO Glasnost". This book is a crucial snapshot of Soviet ufology, composed right before or during the USSR's collapse. In 1987, shortly before she started composing this book, she met with astronaut [Edgar Mitchell](https://en.wikipedia.org/wiki/Edgar_Mitchell). *It is an incredible resource.*
+This is an English translation of Soviet test pilot Col. Dr. [Marina Popowitsch's](https://en.wikipedia.org/wiki/Marina_Popovich)'s (1931-2017) long out of print 1989/1991 book "UFO Glasnost". This book is a crucial snapshot of Soviet ufology, composed right before or during the USSR's collapse. In 1987, shortly before she started composing this book, she met with astronaut [Edgar Mitchell](https://en.wikipedia.org/wiki/Edgar_Mitchell). *It is an incredible resource.*
 
 Wikipedia: "Popovich was a Soviet Air Forces colonel, engineer, and decorated Soviet test pilot. In 1964, she became the third woman and the first Soviet woman to break the sound barrier. Known as "Madame MiG", for her work in the Soviet fighter, she set more than one hundred aviation world records on over 40 types of aircraft over her career."
 
